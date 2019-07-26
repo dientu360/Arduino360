@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Made in VietNam](README.md)
-* [TRUNG TÂM BÁO GIỜ TỰ ĐỘNG E360](trung-tam-bao-gio-tu-dong-e360.md)
+* [Danh Mục Sản Phẩm](README.md)
 
-## Danh Mục Sản Phẩm
+## Made in VietNam
+
+* [Trung Tâm Báo Giờ Tự Động](made-in-vietnam/trung-tam-bao-gio-tu-dong.md)
 
