@@ -1,4 +1,4 @@
-# Module Led 7 Thanh 1,2 Inch \(Led 3x4cm\)
+# MODULE LED 7 THANH 1,2 INCH \(LED 3x4cm\)
 
 ## **Module led 7 thanh 1,2 inch** _**\(Led 3x4cm\)**_ **:**
 
