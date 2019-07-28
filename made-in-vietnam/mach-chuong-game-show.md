@@ -1,2 +1,0 @@
-# MẠCH CHUÔNG GAME SHOW
-
